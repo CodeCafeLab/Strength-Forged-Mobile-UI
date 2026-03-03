@@ -1,0 +1,5 @@
+{
+  "name": "Strength Forged",
+  "description": "A premium health and wellness SaaS platform connecting users with coaches, gyms, and healthy living services.",
+  "requestFramePermissions": ["geolocation"]
+}
